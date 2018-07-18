@@ -1,0 +1,3 @@
+[submodule "portfolio-home/themes/themes/osprey"]
+	path = portfolio-home/themes/themes/osprey
+	url = https://github.com/tomanistor/osprey.git
